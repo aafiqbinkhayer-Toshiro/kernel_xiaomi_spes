@@ -16,3 +16,4 @@ jobs:
           aosp-gcc: true
           aosp-clang: true
           android-version: 11
+          anykernel3: true
